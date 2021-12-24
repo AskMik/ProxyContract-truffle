@@ -1,0 +1,24 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.1",
+    "@openzeppelin/contracts-ethereum-package": "^3.0.0",
+    "@openzeppelin/contracts-upgradeable": "^4.4.1",
+    "@truffle/hdwallet-provider": "^2.0.0",
+    "openzeppelin-solidity": "^4.4.1"
+  },
+  "name": "proxycontraact-truffle",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
